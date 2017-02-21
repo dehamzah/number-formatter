@@ -1,0 +1,26 @@
+{
+  "name": "@dehamzah/number-formatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dehamzah/number-formatter.git"
+  },
+  "author": "Dede Hamzah <dehamzah@gmail.com> (https://dehamzah.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dehamzah/number-formatter/issues"
+  },
+  "homepage": "https://github.com/dehamzah/number-formatter#readme",
+  "engines": {
+    "node": ">=6"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
